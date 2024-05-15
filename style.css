@@ -28,7 +28,7 @@ h1{
     color: #F9FAF8;
 }
 
-p{
+.overview p{
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -89,11 +89,6 @@ button{
     border: none;
 }
 
-.content-container{
-    margin: none;
-}
-
-
 .content-header{
     text-align: center;
     padding: 16px;
@@ -134,3 +129,4 @@ figcaption{
     text-align: center;
     align-self: center;
 }
+
