@@ -205,3 +205,10 @@ figcaption{
     align-self:center;
     background-color: #3882f6;
 }
+
+.footer{
+    background-color: #1F2937;
+    padding: 32px;
+    text-align: center;
+    color: aliceblue;
+}
