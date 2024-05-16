@@ -130,3 +130,30 @@ figcaption{
     align-self: center;
 }
 
+.quote-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    align-items: center;
+    padding: 100px;
+    margin-top: 120px;
+}
+
+.quote{
+    width: 600px;
+    margin: none;
+}
+
+.quote p{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.owner{
+    display: flex;
+    justify-content: flex-end;
+    width: 600px;
+    font-weight: 900;
+}
